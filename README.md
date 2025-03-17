@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Parisa and I'm junior Data and BI Analyst in the Nederlands interested in the data driven solutions for problems in the companies.
-- 🌱 I’m currently learning BI tools and how to solve the problems in the fintech companies via data.
-- 💞️ I’m looking for a job on in my passion in BI and Data roles.
-- 📫 How to reach me : Linkedin.com/in/parisaomidvari
-- 😄 Pronouns: SHE/HER
+Hi, I'm Parisa! 👋
+I'm a Junior Data and BI Analyst based in the Netherlands, passionate about leveraging data-driven solutions to solve business challenges.
+
+🌱 Currently learning BI tools and exploring how to tackle problems in fintech using data.
+💡 Actively seeking opportunities in BI and Data roles to pursue my passion.
+📫 Connect with me on Linkedin.com/in/parisaomidvari.
+  
   
 
 <!---
