@@ -1,7 +1,11 @@
 Hi, I'm Parisa! 👋
+
 I'm a Junior Data and BI Analyst based in the Netherlands, passionate about leveraging data-driven solutions for business challenges.
+
 🌱 Currently learning BI tools and exploring how to tackle problems in fintech using data.
+
 💡 Actively seeking opportunities in BI and Data roles to pursue my passion.
+
 📫 Connect with me on Linkedin.com/in/parisaomidvari.
   
   
