@@ -1,8 +1,8 @@
 Hi, I'm Parisa! 👋
 
-I'm a Junior Data and BI Analyst based in the Netherlands, passionate about leveraging data-driven solutions for business challenges.
+I'm an entry-level data and BI analyst based in the Netherlands and passionate about AI data-driven solutions for business challenges.
 
-🌱 Currently learning BI tools and exploring how to tackle problems in fintech using data.
+🌱 Currently, BI tools and how to tackle problems in using data.
 
 💡 Actively seeking opportunities in BI and Data roles to pursue my passion.
 
