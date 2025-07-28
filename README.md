@@ -1,6 +1,6 @@
 Hi, I'm Parisa! 👋
 
-I'm an entry-level data and BI analyst based in the Netherlands and passionate about AI data-driven solutions for business challenges.
+I'm a Data and BI analyst based in the Netherlands and passionate about AI data-driven solutions for business challenges.
 
 🌱 Currently, BI tools and how to tackle problems in using data.
 
@@ -12,5 +12,5 @@ I'm an entry-level data and BI analyst based in the Netherlands and passionate a
 
 <!---
 Parisa-1996/Parisa-1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
