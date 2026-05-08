@@ -1,10 +1,8 @@
 Hi, I'm Parisa! 👋
 
-I'm a Data and BI analyst based in the Netherlands and passionate about AI data-driven solutions for business challenges.
+I'm a Data analytics enthusiast based in the Netherlands and passionate about AI data-driven solutions for business challenges.
 
 🌱 Currently, BI tools and how to tackle problems in using data.
-
-💡 Actively seeking opportunities in BI and Data roles to pursue my passion.
 
 📫 Connect with me on Linkedin.com/in/parisaomidvari.
   
